@@ -58,6 +58,9 @@ background-color: #fff;
   font-weight: 300;
   font-size: 1.2rem;
 }
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
 
 /* download-button */
 .download-button{
